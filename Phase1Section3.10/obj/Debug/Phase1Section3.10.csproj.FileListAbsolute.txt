@@ -1,0 +1,7 @@
+D:\Console Asp\Phase1Section3.10\Phase1Section3.10\bin\Debug\Phase1Section3.10.exe.config
+D:\Console Asp\Phase1Section3.10\Phase1Section3.10\bin\Debug\Phase1Section3.10.exe
+D:\Console Asp\Phase1Section3.10\Phase1Section3.10\bin\Debug\Phase1Section3.10.pdb
+D:\Console Asp\Phase1Section3.10\Phase1Section3.10\obj\Debug\Phase1Section3.10.csproj.AssemblyReference.cache
+D:\Console Asp\Phase1Section3.10\Phase1Section3.10\obj\Debug\Phase1Section3.10.csproj.CoreCompileInputs.cache
+D:\Console Asp\Phase1Section3.10\Phase1Section3.10\obj\Debug\Phase1Section3.10.exe
+D:\Console Asp\Phase1Section3.10\Phase1Section3.10\obj\Debug\Phase1Section3.10.pdb
